@@ -1,6 +1,6 @@
 # World_population
 
-TODO
+TODO - change this part once analysis is done.
 
 Basic Descriptive Statistics:
 
