@@ -2,101 +2,6 @@
 
 TODO - change this part once analysis is done.
 
-Basic Descriptive Statistics:
-
-Calculate basic statistics (mean, median, min, max) for columns like population, area, density, and growth rate.
-Handling Missing Values:
-
-Identify and handle missing values in the dataset, especially in population and area columns.
-Population Growth Analysis:
-
-Calculate the population growth over time for each country by comparing population values from different years.
-Determine countries with the highest and lowest growth rates over specific intervals (e.g., 1970-2022).
-Continental Analysis:
-
-Group the data by continent to analyze average population, density, and area for each continent.
-Top and Bottom Analysis:
-
-Find the top 10 most and least populated countries, as well as those with the highest and lowest densities.
-Percentage of World Population:
-
-Analyze which continents contribute the most and least to the world population.
-Correlations:
-
-Compute correlations between variables like population, area, density, and growth rate to understand relationships within the data.
-
-
-- See if any countries have an overall decrease on population, check different times, years.
-
-
-Population Growth Trends
-
-Which countries have experienced the highest and lowest growth rates over the past 50 years?
-
-This can reveal both rapidly growing and shrinking populations, often correlated with economic, social, or political factors.
-
-What is the average population growth rate by continent?
-
-This could help identify global regions with high or low growth and could prompt deeper investigations into regional trends.
-
-Are there any countries where growth rates have changed significantly in recent years?
-
-Comparing recent growth rates (e.g., 2000–2022 vs. 1970–2000) can highlight emerging demographic shifts.
-
-
-
-Demographic Declines and Aging Populations
-
-Which countries have seen population declines in recent years?
-
-This can identify countries with potential aging populations or emigration issues.
-
-
-How does population density compare across regions and over time?
-
-This would help to assess urbanization trends and whether population pressures are increasing in certain areas.
-
-Are there common characteristics among countries with declining populations?
-
-Finding correlations with GDP, urbanization, or other socioeconomic factors can explain declining population trends.
-
-
-
-Global Share and Population Distribution
-
-What percentage of the world population does each continent represent, and how has this changed over time?
-
-This would highlight which continents are growing in global population share.
-
-
-Which countries have the largest shares of the global population?
-
-This could help assess where the world’s population is most concentrated and which countries might have increased influence.
-
-
-
-
-
-
-Population Growth Over Time: How has the population of each country changed from 1970 to 2023? You can create line graphs to visualize growth trends over the years.
-
-Annual Growth Rate: What is the annual growth rate of the population for each country or continent over specific periods? This can help identify periods of rapid growth or decline.
-
-Comparative Growth Analysis: How does the population growth of one country compare to another over the years? This can highlight differences in demographic trends.
-
-Population Milestones: What significant population milestones have occurred for each country (e.g., reaching a certain population size) between 1970 and 2023?
-
-Impact of Historical Events: How have historical events (such as wars, migrations, or policy changes) impacted population growth in specific countries during this timeframe?
-
-Urbanization Trends: How has urbanization affected population distribution in countries from 1970 to 2023? You can analyze shifts from rural to urban populations.
-
-Demographic Changes: How have age distributions changed over the years in different countries? This can involve analyzing the proportion of youth versus elderly populations.
-
-Population Projections: Based on historical data, what are the projections for future population growth in different countries or continents?
-
-Correlation with Economic Indicators: How does population growth correlate with economic indicators (like GDP) over the years in various countries?
-
-Visualizing Trends: Create visualizations such as bar charts, line graphs, or animated maps to showcase population changes over time for better understanding.
 
 
 FOR correlation 
@@ -117,3 +22,67 @@ Population Projections: If you have historical data, you can use it to project f
 
 Regional Analysis: If your data includes multiple countries, you can group them by region (e.g., continents) and analyze the correlation of population growth within those regions.
 
+
+
+
+Summary of Analysis Goals
+You aim to conduct a multifaceted analysis of global population trends using Python and Pandas. The focus includes examining population growth and decline over specific intervals, identifying regional and global patterns, exploring correlations between population metrics, and assessing shifts in density and urbanization. You also intend to investigate the factors influencing population trends, such as economic conditions, urbanization, and historical events, while creating visual representations for clear insights.
+
+Task List for Data Analysis
+
+1. Basic Descriptive Statistics
+Calculate basic statistics (mean, median, minimum, maximum) for population, area, density, and growth rate columns.
+Use .describe() and specific aggregations for different columns.
+
+2. Handle Missing Values
+Identify missing values in population, area, and density columns.
+Use appropriate methods to either fill or drop missing values, ensuring data consistency.
+
+3. Population Growth Analysis
+Calculate the percentage growth rate for each country over specified intervals, such as 1970–2022 and 2000–2022.
+Identify countries with the highest and lowest growth rates and examine trends across these intervals.
+Visualize changes with line charts or bar charts for countries with the most significant growth or decline.
+
+4. Continental Analysis
+Group data by continent to calculate average population, density, and area.
+Analyze which continents have the largest shares of the world’s population and observe changes over time.
+
+5. Top and Bottom Analysis
+Identify the top 10 most and least populated countries.
+Determine countries with the highest and lowest population densities and visualize these findings using bar charts.
+
+6. Percentage of World Population by Continent
+Calculate each continent's contribution to the world population and observe how this share has shifted over time.
+Use pie charts or stacked bar charts to represent changes in global population distribution by continent.
+
+7. Correlation Analysis
+Compute correlations between variables like population, area, density, and growth rate.
+Use scatter plots or heatmaps to visualize the relationships and identify any significant patterns.
+
+8. Declining Populations Analysis
+Identify countries with a net decrease in population from 1970 to 2022 and separately from 2000 to 2022.
+Examine and visualize demographic shifts in these countries to understand potential reasons for population decline.
+
+9. Population Growth Trends Over Time
+Identify and visualize which countries experienced the highest and lowest growth rates over the past 50 years.
+Calculate and compare the average population growth rate by continent.
+
+
+10. Impact of Historical Events and Comparative Growth
+Explore how historical events (e.g., wars, migrations) might align with population trends for specific countries.
+Compare growth rates between countries to highlight differing demographic trends and detect emerging shifts.
+
+11. Density and Urbanization Trends
+Analyze and visualize how population density has changed by region over time to assess urbanization trends.
+Investigate countries with the highest and lowest densities to see if there is a correlation with growth rates.
+
+12. Projected Trends and Milestones
+Based on historical data, attempt basic projections for future population growth in different countries or continents.
+Highlight significant population milestones achieved over the years by each country.
+
+Suggested Visualizations
+Line Plots: For longitudinal analysis of population growth over time.
+Bar Charts: For showing top/bottom rankings in population or density.
+Heatmaps: To visualize correlations between variables.
+Pie or Stacked Bar Charts: To represent global population share by continent.
+Scatter Plots: For examining relationships between area, density, and growth rates, with color coding for population increase/decrease.
