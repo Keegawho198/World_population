@@ -11,17 +11,19 @@ Value: Calculating metrics like growth rates, mean population by continent, and 
 Showcase: Employers can see that you have a sound understanding of statistical analysis, data aggregation, and pattern recognition, which are key in drawing meaningful insights.
 4. Data Visualization
 Value: Visualization is critical for communicating findings effectively. Bar charts, line plots, heatmaps, and scatter plots all illustrate different aspects of population data.
+
+-------
 Showcase: Strong visual storytelling with data shows that you can make data accessible and compelling to stakeholders with different levels of data literacy.
-5. Analytical Thinking and Question-Driven Analysis
+6. Analytical Thinking and Question-Driven Analysis
 Value: Breaking down complex questions—such as identifying population decline trends and growth rates—demonstrates your ability to think analytically and stay curious.
 Showcase: Employers value analysts who can ask relevant questions, dive deep into data, and make observations that lead to actionable insights.
-6. Trend Analysis and Historical Context
+7. Trend Analysis and Historical Context
 Value: Evaluating historical trends, like how events impact population changes, shows that you can connect data with real-world context.
 Showcase: This skill is critical in fields like market research and policy analysis, where understanding the “why” behind data trends is essential.
-7. Real-World Impact and Communication
+8. Real-World Impact and Communication
 Value: Being able to convey your findings clearly—whether it’s demographic shifts, emerging population trends, or urbanization patterns—demonstrates strong communication skills.
 Showcase: By summarizing your results and implications in an organized way, you show potential employers that you can bridge the gap between technical analysis and actionable insights for decision-making.
-8. Project Documentation and Storytelling
+9. Project Documentation and Storytelling
 Value: Comprehensive documentation of your process, from cleaning data to interpreting findings, creates a compelling project narrative.
 Showcase: Employers appreciate well-documented projects because they demonstrate a methodical approach and make it easier for others to follow your analysis.
 How to Leverage This Project:
