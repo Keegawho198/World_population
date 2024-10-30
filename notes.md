@@ -36,3 +36,52 @@ Showcasing Diverse Skill Sets: This project showcases not only your technical sk
 Add Real-World Applications: Frame the project in a way that addresses global issues, such as resource allocation or urban planning, which shows employers you can think beyond the numbers and connect data to larger strategic themes.
 
 This project will provide a complete, end-to-end analysis experience, making it an ideal choice for showcasing your data analysis capabilities to employers in a meaningful way.
+
+
+
+
+
+Population Trends and Growth
+Which countries have experienced the highest population growth between 1970 and 2022?
+
+What are the growth rates for each country over different decades (e.g., 1970-1980, 1980-1990, etc.)?
+
+How has the population of each continent changed over the years?
+
+Are there any countries with a declining population? What could be the reasons?
+
+Comparative Analysis
+Which countries have the highest and lowest population densities?
+
+How does the population density compare between continents?
+
+Which countries have the largest and smallest areas in km²?
+
+How does the population distribution vary among countries within the same continent?
+
+Detailed Insights
+What are the top 10 most populated countries in 2022?
+
+What are the top 10 least populated countries in 2022?
+
+Which countries contribute the most to the world population percentage?
+
+What are the growth rates for the most and least populated countries?
+
+Correlation and Causation
+Is there a correlation between a country's area and its population density?
+
+Do countries with larger areas tend to have higher or lower population densities?
+
+How does the growth rate correlate with the initial population size of a country?
+
+What factors might be driving population growth in different regions (e.g., economic, social, environmental)?
+
+Visualizations
+Can you create a line graph showing population trends over time for each continent?
+
+Can you use a stacked bar chart to show the population distribution by continent over the years?
+
+Can you visualize the population density distribution across different countries using a heatmap?
+
+How does a scatter plot look for population density versus area?
